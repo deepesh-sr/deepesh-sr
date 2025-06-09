@@ -33,9 +33,3 @@ The other makes sure it’s **immutably stored till the heat death of the univer
 
 ---
 [![](https://visitcount.itsvg.in/api?id=deepesh-sr&icon=2&color=4)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dEEv13eRjRQodutata5L5ammEh54mPTo3e8B4wNvjWy) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
